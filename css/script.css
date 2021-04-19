@@ -35,6 +35,9 @@
 	color: #fff;
     font-size: 25px
 }
+.navbar-light .navbar-nav{
+	padding-left: 12px;
+}
 .navbar-light .navbar-nav .nav-link{
 	color: #fff;
     font-size: 18px;
